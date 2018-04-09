@@ -1,2 +1,3 @@
-# ludwall
-The Linux user and Developer wall for the Essential Linux tutorial in LUD192.
+# Welcome to the Linux user and Developer wall.
+
+## If you would like to leave a message on the wall, please edit this file and leave a pull request.
